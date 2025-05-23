@@ -1,4 +1,4 @@
-# Starlight Intelligence Logo Repository
+# SI / Logo
 
 [简体中文](README.md) [/ English
 

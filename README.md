@@ -1,4 +1,4 @@
-# 星光智能 Logo 仓库
+# SI / Logo
 
 简体中文 / [English](README.en.md)
 
