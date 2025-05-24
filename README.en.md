@@ -1,6 +1,6 @@
 # SI / Logo
 
-[简体中文](README.md) [/ English
+[简体中文](README.md) / English
 
 This repository contains the **original Inkscape SVG files** and **GIMP project files** for the Starlight Intelligence logo.
 
